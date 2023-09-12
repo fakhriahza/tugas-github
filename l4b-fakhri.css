@@ -1,0 +1,52 @@
+body{
+    font-family: Georgia;
+    background-color: #999;
+}
+
+p{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-right: 0px;
+    margin-left: 15px;
+}
+
+#page-wrap{
+width: 700px;
+margin: 0px auto;
+padding: 10px;
+}
+
+#content{
+    width: 460px;
+    margin-right: 20px;
+    padding-right: 20px;
+    border-right: 1px solid #333;
+    min-height: auto;
+    float: left;
+}
+
+#sidebar{
+    width: 180px;
+    float: left;
+}
+
+.footer{
+    text-align: justify;
+    background-color: #333;
+    font-family: Verdana;
+    width: 740px;
+    height: 35px;
+    margin: 10px auto;
+    padding-top: 20px;
+    background-color: black;
+}
+
+#pfooter{
+    font-weight: 10px;
+    color: white;
+    text-align: center;
+}
+
+.footer {
+    clear: both;
+}
